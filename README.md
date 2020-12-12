@@ -16,7 +16,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
+You can find me on [![Twitter][1.2]][1], <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
 
 <!-- Icons -->
 
@@ -29,3 +29,5 @@ You can find me on [![Twitter][1.2]][1], or on <img src="https://user-images.git
 [2]: https://www.linkedin.com/in/kimala-cochran/
 
 ![kimalajoy's github stats](https://github-readme-stats.vercel.app/api?username=kimalajoy&show_icons=true&theme=tokyonight)
+![kimalajoy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimalajoy&show_icons=true&theme=tokyonight)
+
