@@ -1,16 +1,31 @@
+![Header](https://user-images.githubusercontent.com/54754467/101996564-e3383180-3c90-11eb-8c84-ad9c72318322.gif)
+
 ### Hi there 👋
 
-<!--
-**kimalajoy/kimalajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/Gatsby-informational?style=flat&logo=gatsby&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=892bbb&color=2bbc8a)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Jr software developer in Denver, Colorado
+- 🌱 I’m currently learning Gatsby.js, Bit.dev and Storybook
+- 💬 Ask me about robot battles or knitting!
+- 📫 How to reach me: 
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png 
+
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Tech16Kim
+[2]: https://www.linkedin.com/in/kimala-cochran/
+
+![kimalajoy's github stats](https://github-readme-stats.vercel.app/api?username=kimalajoy&show_icons=true&theme=tokyonight)
