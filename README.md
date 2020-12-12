@@ -24,10 +24,15 @@ ___
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/Gatsby-informational?style=flat&logo=gatsby&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=892bbb&color=2bbc8a)
-___
-
+![](https://img.shields.io/badge/Mocha-informational?style=flat&logo=mocha&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/chai-informational?style=flat&logo=chai&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/webpack-informational?style=flat&logo=webpack&logoColor=892bbb&color=2bbc8a)
+![](https://img.shields.io/badge/Storybook-informational?style=flat&logo=storybook&logoColor=892bbb&color=2bbc8a)
 ___
 ### 📈 GitHub Stats
 ![kimalajoy's github stats](https://github-readme-stats.vercel.app/api?username=kimalajoy&show_icons=true&theme=tokyonight)
