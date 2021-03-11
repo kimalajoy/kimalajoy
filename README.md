@@ -15,9 +15,9 @@ You can find me on [![Twitter][1.2]][1], <img src="https://user-images.githubuse
 [2]: https://www.linkedin.com/in/kimala-cochran/
 ___
 
-- 🔭 I’m currently working as a Jr software developer in Denver, Colorado
-- 🌱 I’m currently learning Gatsby.js, Bit.dev and Storybook
-- 💬 Ask me about robot battles or knitting!
+- 🔭 I’m currently working as a Front End Adobe Experience Manager (AEM) Apprentice in Denver, Colorado
+- 🌱 I’m currently learning AEM and getting to flex my JS and CSS muscles
+- 💬 Ask me about robot combat or knitting!
 ___
 ### 🔧 Technologies & Tools
 
