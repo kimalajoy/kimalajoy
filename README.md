@@ -3,7 +3,7 @@
 ## Hi there 👋
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
+You can find me on <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
 
 <!-- Icons -->
 
