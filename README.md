@@ -13,12 +13,13 @@ You can find me on <img src="https://user-images.githubusercontent.com/54754467/
 [1]: https://www.linkedin.com/in/kimala-cochran/
 ___
 
-- 🔭 I’m currently working as an AEM Front End Developer in Denver, Colorado
-- 🌱 I’m currently using JS, CSS/SCSS and AEM
-- 💬 Ask me about robot combat or knitting!
+- 🔭 I’m currently working as a Front End Developer in Denver, Colorado
+- 🌱 I’m currently using React, TypeScript, Pocketbase and AEM
+- 💬 Ask me about combat robotics or knitting!
 ___
 ### 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=javascript&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=892bbb&color=2bbc8a)
 ![](https://img.shields.io/badge/Gatsby-informational?style=flat&logo=gatsby&logoColor=892bbb&color=2bbc8a)
