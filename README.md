@@ -3,16 +3,14 @@
 ## Hi there 👋
 <!-- Actual text -->
 
-You can find me on <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [or email me](kimalajoy@gmail.com).
+You can find me on <img src="https://user-images.githubusercontent.com/54754467/101998626-2e9f0f80-3c92-11eb-977b-979ba9caf071.png" alt="linkedin" width="15" height="15">, [check out my portfolio website](https://kimala.pockethost.io/) [or email me](kimalajoy@gmail.com) 
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 
 <!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Tech16Kim
-[2]: https://www.linkedin.com/in/kimala-cochran/
+[1]: https://www.linkedin.com/in/kimala-cochran/
 ___
 
 - 🔭 I’m currently working as an AEM Front End Developer in Denver, Colorado
